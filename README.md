@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Harshikesh Kumar<br>🎓 MCA student @ K.R. Mangalam University<br>💻 MERN Stack Developer | Love building real-world projects<br>🚀 Projects: Gender Detection, Mentor-Hub, Tailwind Clones, Games<br>📚 Always learning | Open to collabs & internships
+👋 Hi, I'm Sikandar Alam<br>🎓 MCA student @ NIET Grater Noida<br>💻 Data Analysis | Love building real-world projects<br>🚀 Projects: Credit card finencial dashboard, Portfolio website<br>📚 Always learning | Open to collabs & internships
 
 
 ## 🌐 Socials:
